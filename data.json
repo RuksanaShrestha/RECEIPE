@@ -1,0 +1,184 @@
+{
+    
+    "receipes": {
+        "moussaka": {
+            "id": "1",
+            "title": "Moussaka",
+            "Description": "Indulge in the rich flavors of Greece with our classic Moussaka. Layers of eggplant, ground meat, and béchamel sauce, baked to perfection.",
+            "image": "Images/Moussaka.jpg",
+            "ingredients": [
+                "Eggplant",
+                "Ground meat",
+                "Béchamel sauce",
+                "Tomato",
+                "Onion",
+                "Garlic",
+                "Cinnamon"
+            ],
+            "steps": {
+                "step1": "Slice and roast eggplant slices.",
+                "step2": "Brown ground meat with onions, garlic, and cinnamon.",
+                "step3": "Layer eggplant, meat, and tomato sauce, then top with béchamel sauce.",
+                "step4": "Bake until golden brown and serve."
+            }
+        },
+        "souvlaki": {
+            "id": "2",
+            "title": "Souvlaki",
+            "Description": "Savor the essence of Greece with our Souvlaki. Skewers of marinated meat, grilled to perfection, served with pita and tzatziki sauce.",
+            "image": "Images/souvlaki.jpg",
+            "ingredients": [
+                "Chicken or Pork",
+                "Olive oil",
+                "Lemon juice",
+                "Garlic",
+                "Oregano",
+                "Pita bread",
+                "Tzatziki sauce"
+            ],
+            "steps": {
+                "step1": "Marinate meat in olive oil, lemon juice, garlic, and oregano.",
+                "step2": "Thread meat onto skewers and grill until done.",
+                "step3": "Serve with warm pita bread and tzatziki sauce."
+            }
+        },
+        "spanakopita": {
+            "id": "3",
+            "title": "Spanakopita",
+            "Description": "Delight in the taste of Greece with our Spanakopita. Flaky layers of phyllo dough filled with spinach, feta cheese, and herbs.",
+            "image": "Images/spanakopita.jpg",
+            "ingredients": [
+                "Phyllo dough",
+                "Spinach",
+                "Feta cheese",
+                "Onion",
+                "Dill",
+                "Lemon juice",
+                "Olive oil"
+            ],
+            "steps": {
+                "step1": "Sauté spinach, onion, and dill, then mix with feta cheese and egg.",
+                "step2": "Layer phyllo dough with spinach mixture, brushing with butter between layers.",
+                "step3": "Bake until golden brown and serve."
+            }
+        },
+        "tzatziki": {
+            "id": "4",
+            "title": "Tzatziki",
+            "Description": "Enjoy the refreshing taste of Tzatziki. Creamy Greek yogurt, cucumber, garlic, and dill come together for a delightful dip or sauce.",
+            "image": "Images/tzatziki.jpg",
+            "ingredients": [
+                "Greek yogurt",
+                "Cucumber",
+                "Garlic",
+                "Dill",
+                "Lemon juice",
+                "Olive oil",
+                "Salt"
+            ],
+            "steps": {
+                "step1": "Grate cucumber and squeeze out excess liquid.",
+                "step2": "Mix cucumber with yogurt, garlic, dill, lemon juice, and olive oil.",
+                "step3": "Season with salt and refrigerate before serving."
+            }
+        },
+        "saganaki": {
+            "id": "5",
+            "title": "Saganaki",
+            "Description": "Experience the flavors of Greece with our Saganaki. Pan-fried cheese served with a squeeze of lemon for a tangy delight.",
+            "image": "Images/Saganaki.jpg",
+            "ingredients": [
+                "Kefalotyri cheese",
+                "Flour",
+                "Olive oil",
+                "Lemon"
+            ],
+            "steps": {
+                "step1": "Dredge cheese in flour.",
+                "step2": "Fry in olive oil until golden and crispy.",
+                "step3": "Squeeze lemon over the cheese and serve."
+            }
+        },
+        "dolmades": {
+            "id": "6",
+            "title": "Dolmades",
+            "Description": "Savor the Mediterranean flavors with our Dolmades. Grape leaves stuffed with a mixture of rice, herbs, and ground meat.",
+            "image": "Images/Dolmades.jpg",
+            "ingredients": [
+                "Grape leaves",
+                "Rice",
+                "Ground meat",
+                "Onion",
+                "Dill",
+                "Lemon juice",
+                "Olive oil"
+            ],
+            "steps": {
+                "step1": "Blanch grape leaves and prepare filling with rice, meat, onion, dill, lemon juice, and olive oil.",
+                "step2": "Roll grape leaves around the filling and cook until tender.",
+                "step3": "Serve with a squeeze of lemon."
+            }
+        },
+        "lamb_gyros": {
+            "id": "7",
+            "title": "Lamb Gyros",
+            "Description": "Indulge in the bold flavors of Greece with our Lamb Gyros. Thinly sliced marinated lamb, wrapped in pita bread with tomatoes, onions, and tzatziki sauce.",
+            "image": "Images/Lamb Gyros.jpg",
+            "ingredients": [
+                "Lamb",
+                "Olive oil",
+                "Garlic",
+                "Oregano",
+                "Pita bread",
+                "Tomatoes",
+                "Onion",
+                "Tzatziki sauce"
+            ],
+            "steps": {
+                "step1": "Marinate lamb in olive oil, garlic, and oregano.",
+                "step2": "Grill until done, then slice thinly.",
+                "step3": "Wrap lamb in pita bread with tomatoes, onions, and tzatziki sauce."
+            }
+        },
+        "pastitsio": {
+            "id": "9",
+            "title": "Pastitsio",
+            "Description": "Enjoy a taste of Greece with our Pastitsio. Layers of pasta, seasoned ground meat, and creamy béchamel sauce, baked to perfection.",
+            "image": "Images/Pastitsio.jpg",
+            "ingredients": [
+                "Pasta",
+                "Ground meat",
+                "Béchamel sauce",
+                "Tomato sauce",
+                "Onion",
+                "Cinnamon",
+                "Nutmeg"
+            ],
+            "steps": {
+                "step1": "Cook pasta and layer with seasoned ground meat, tomato sauce, and béchamel sauce.",
+                "step2": "Bake until golden brown and sprinkle with cinnamon and nutmeg before serving."
+            }
+        },
+        "koulourakia": {
+            "id": "10",
+            "title": "Koulourakia",
+            "Description": "Delight in Greek sweets with our Koulourakia. Butter cookies, shaped into twists or rings, with a hint of vanilla and sesame seeds.",
+            "image": "Images/Koulourakia.jpg",
+            "ingredients": [
+                "Butter",
+                "Sugar",
+                "Egg",
+                "Vanilla extract",
+                "Flour",
+                "Baking powder",
+                "Sesame seeds"
+            ],
+            "steps": {
+                "step1": "Cream butter and sugar, then add egg and vanilla extract.",
+                "step2": "Mix in flour and baking powder to form a dough.",
+                "step3": "Shape into twists or rings, sprinkle with sesame seeds, and bake until golden."
+            }
+        }
+    }
+}
+
